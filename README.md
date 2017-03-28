@@ -1,15 +1,15 @@
 # TiendaRegalosWeb
 
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+![En construcción](https://www.google.com.mx/search?q=imagenes+de+tiendas+de+regalos&client=firefox-b-ab&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj83vzb6fnSAhUHy2MKHU6CBr8QsAQIHg&biw=1920&bih=940#imgrc=KzpAk3bSy7TXzM:)
 
 ## Objetivo de la aplicación
-El objetivo de la aplicación es ...
+El objetivo de la aplicación es crear una pagina web para un tienda de regalos y asi poder generar mas ventas en dicha tienda.
 
 ## Descripción de la aplicación
 La descripción de la aplicación es ...
 
 ## Descripción funcional
-La descripción funcional de la aplicación es ...
+La pagina mostrara lo productos disponible en tienda con un 
 
 ### Funcionalidad 1
 La descripción de la funcionalidad 1 es ...
@@ -28,8 +28,8 @@ La descripción de la funcionalidad 5 es ...
 
 ## Autor(es)
 El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+- Enrique Martinez Ramirez (@QuiqueM)
+- Jessica Nayeli Vargas Roque (@nombreUsuarioGitHub)
 
 ## Materia(s)
 - Tecnologías Web
