@@ -27,7 +27,7 @@ El usuario realizara su pago en efectivo al momento de recibir el producto.
 ## Autor(es)
 El autor(es) del proyecto son:
 - Enrique Martinez Ramirez (@QuiqueM)
-- Jessica Nayeli Vargas Roque (@nombreUsuarioGitHub)
+- Jessica Nayeli Vargas Roque (@nayelivargas)
 
 ## Materia(s)
 - Tecnologías Web
