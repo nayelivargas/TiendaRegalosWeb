@@ -1,6 +1,6 @@
 # TiendaRegalosWeb
 
-![Tienda de Regalos](https://github.com/acominf/TiendaRegalosWeb/blob/master/logo.jpg)
+![Tienda de Regalos](https://github.com/acominf/TiendaRegalosWeb/blob/master/regalados.jpg)
 
 ## Objetivo de la aplicación
 El objetivo de la aplicación es crear una pagina web para un tienda de regalos y asi poder generar mas ventas en dicha tienda.
@@ -9,10 +9,10 @@ El objetivo de la aplicación es crear una pagina web para un tienda de regalos 
 La descripción de la aplicación es ...
 
 ## Descripción funcional
-La pagina mostrara lo productos disponible en tienda con una peuqeña descripcion del mismo y su precio. 
+Publicitar la tienda de una manera mas sencilla junto con los productos que estan a la venta ofreciendo al usuario mayor comodidad al momento de comprar ya que no necesita ir a la tienda fisica. 
 
 ### Visualizaciòn 
-El usuario tendra la visualizaciòn del catalogo completo de los articulos disponibles.
+El usuario tendra la visualizaciòn del catalogo completo de los articulos disponibles junto  con el precio .
 
 ### Registro
 EL usuario podra registrase en la pagina web para que no tenga que estar ingresdando sus datos en cada compra.
@@ -21,10 +21,8 @@ EL usuario podra registrase en la pagina web para que no tenga que estar ingresd
 El usuario tendra la posibilidad de hacer busquedas especificas.
 
 ### Pagos
-El usuario podra realizar depositos para apartar su producto 
+El usuario realizara su pago en efectivo al momento de recibir el producto. 
 
-### Funcionalidad 5
-La descripción de la funcionalidad 5 es ...
 
 ## Autor(es)
 El autor(es) del proyecto son:
