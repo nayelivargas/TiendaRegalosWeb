@@ -1,6 +1,6 @@
 # TiendaRegalosWeb
 
-![Tienda de Regalos](https://github.com/acominf/TiendaRegalosWeb/blob/master/regalados.jpg)
+![Tienda de Regalos](https://raw.githubusercontent.com/acominf/TiendaRegalosWeb/master/regalados.jpg)
 
 ## Objetivo de la aplicación
 El objetivo de la aplicación es crear una pagina web para un tienda de regalos y asi poder generar mas ventas en dicha tienda.
