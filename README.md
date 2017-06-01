@@ -23,6 +23,8 @@ El usuario tendra la posibilidad de hacer busquedas especificas.
 ### Pagos
 El usuario realizara su pago en efectivo al momento de recibir el producto. 
 
+## Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZgF1q2WLZGg" frameborder="0" allowfullscreen></iframe>
 
 ## Autor(es)
 El autor(es) del proyecto son:
